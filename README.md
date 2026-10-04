@@ -74,7 +74,7 @@ pass. One maintainer makes final decisions.
 
 ## Used by
 
-[stemmo-pipeline](https://github.com/dino-zecevic/stemmo-pipeline) builds the
+[stemmo-pipeline](https://github.com/stemmo-app/stemmo-pipeline) builds the
 files the Stemmo app reads from this data. The dataset stands on its own and is
 useful without the app.
 
